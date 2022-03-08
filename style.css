@@ -1,0 +1,26 @@
+.title {
+  color: white;
+  background-color: rgb(107, 178, 240);
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  height: 35px;
+  width: 400px;
+}
+
+.links {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.cheese {
+  color: rgb(255, 132, 0);
+}
+
+.surup {
+  color: rgb(59, 192, 130);
+}
+
+.coco {
+  color: rgb(248, 98, 186);
+}
